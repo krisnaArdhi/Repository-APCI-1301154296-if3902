@@ -4,5 +4,10 @@
     Uses Crt; 
     Begin
         ClrScr;
-        Writeln(�Hello World�); //untuk mengeluarkan string �Hello World� di layar 
-    End.
+        Writeln(‘Hello’); 
+	Writeln(‘1301154296’)
+	Writeln(‘IF-39-02’);
+	Writeln(‘RENETTE’);
+	Writeln(‘1301154282’);
+	Writeln(‘MODUL6’);  
+End.
